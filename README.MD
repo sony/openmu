@@ -14,7 +14,7 @@ A Dockerfile is provided and it should work out-of-the-box.
 
 #### 1.2 Datasets and checkpoints
 
-For OpenMU-Bench, our created benchmark for music understanding tasks, please download from [here](https://drive.google.com/drive/folders/1bkl8dWLviHGZWgrhcxf-zPZA-vlTlq7B?usp=sharing).
+For OpenMU-Bench, our created benchmark for music understanding tasks, please download from [here](https://huggingface.co/datasets/Sony/OpenMU-Bench).
 
 Please also download the checkpoints for inference.
 
