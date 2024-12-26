@@ -235,7 +235,7 @@ def smart_tokenizer_and_embedding_resize(
 def train(attn_implementation=None):
     global local_rank
 
-    hf_token = "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"
+    hf_token = "you HF token here"
 
     parser = transformers.HfArgumentParser(
         (ModelArguments, DataArguments, TrainingArguments)
